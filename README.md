@@ -40,7 +40,7 @@
     <th>날짜</th><th>윤일준</th><th>박태이</th><th>김강호</th><th>송예림</th><th>이주희</th>
   </tr>
   <tr>
-    <td><a href="/1028/README.md">22/10/28</a></td><td></td><td></td><td></td><td></td><td></td>
+    <td><a href="/1028/README.md">22/10/28</a></td><td></td><td></td><td></td><td></td><td>🟩</td>
   </tr>
   <tr>
     <td>22/10/31</td><td></td><td></td><td></td><td></td><td></td>
