@@ -34,20 +34,71 @@
 ```
 
 ## 소스 코드 업로드 ✅
-* [22.10.28](/1028/README.md)
-* 22.10.31
+- 주어진 문제를 해결하고 코드 업로드 완료시 🟩로 표시
+<table>
+  <tr>
+    <th>날짜</th><th>윤일준</th><th>박태이</th><th>김강호</th><th>송예림</th><th>이주희</th>
+  </tr>
+  <tr>
+    <td>22/10/28</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/10/31</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/02</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/04</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/07</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/09</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/11</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/14</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/16</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/18</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/21</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/23</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/25</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/28</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>22/11/30</td><td></td><td></td><td></td><td></td><td></td>
+  </tr>
+</table>
 </br>
 
-* 22.11.02 
-* 22.11.04
-* 22.11.07
-* 22.11.09
-* 22.11.11
-* 22.11.14
-* 22.11.16
-* 22.11.18
-* 22.11.21
-* 22.11.23
-* 22.11.25
-* 22.11.28
-* 22.11.30
+## Member 👨🏻‍💻
+<table>
+  <tr>
+    <td height="20px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/smileJune">
+      <img src="https://avatars.githubusercontent.com/smileJune" width="100px"/> <br><br> 윤일준 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/J00HUI">
+      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 이주희 <br>(Back-End) </a> <br></td>
+  </tr>
+</table>
