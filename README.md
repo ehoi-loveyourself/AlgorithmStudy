@@ -37,10 +37,10 @@
 - 주어진 문제를 해결하고 코드 업로드 완료시 🟩로 표시
 <table>
   <tr>
-    <th>날짜</th><th>윤일준</th><th>박태이</th><th>김강호</th><th>송예림</th><th>이주희</th>
+    <th>날짜</th><th>문제</th><th>윤일준</th><th>박태이</th><th>김강호</th><th>송예림</th><th>이주희</th>
   </tr>
   <tr>
-    <td>22/10/28</td><td></td><td></td><td></td><td></td><td></td>
+    <td>22/10/28</td><td>백준</td><td></td><td></td><td></td><td></td><td></td>
   </tr>
   <tr>
     <td>22/10/31</td><td></td><td></td><td></td><td></td><td></td>
