@@ -67,7 +67,7 @@
       <img src="https://avatars.githubusercontent.com/ehoi-loveyourself" width="100px"/> <br><br> 박태이 <br>(Back-End) </a> <br></td>
     <td height="20px" align="center"><a href="https://github.com/tgb02087">
       <img src="https://avatars.githubusercontent.com/tgb02087" width="100px"/> <br><br> 김강호 <br>(Back-End) </a> <br></td>
-    <td height="20px" align="center"><a href="https://github.com/J00HUI">
-      <img src="https://avatars.githubusercontent.com/J00HUI" width="100px"/> <br><br> 송예림 <br>(Back-End) </a> <br></td>
+    <td height="20px" align="center"><a href="https://github.com/yerim8373">
+      <img src="https://avatars.githubusercontent.com/yerim8373" width="100px"/> <br><br> 송예림 <br>(Back-End) </a> <br></td>
   </tr>
 </table>
